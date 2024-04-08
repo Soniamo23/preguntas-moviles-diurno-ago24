@@ -1,0 +1,40 @@
+Banco de Preguntas
+
+Ventajas y desventajas de JSX en el desarrollo de aplicaciones React
+
+Por:  Sergio Iván Ullaguari & Diego Andres Guzhñay.
+
+
+¿Cuál es una ventaja de usar JSX con React?[1] 
+
+A. JSX simplifica la implementación de Angular. 
+
+B. JSX aumenta la curva de aprendizaje para los desarrolladores frontend. 
+
+C. JSX facilita la familiaridad para los desarrolladores front-end al estar basado en HTML.
+
+Respuesta: C
+
+
+¿Qué beneficio proporciona la mezcla de HTML y JavaScript en JSX?[2] 
+
+A. Dificulta la manipulación de datos dinámicos. 
+
+B. Facilita la verificación de errores en tiempo de ejecución. 
+
+C.  Permite combinar expresiones fácilmente en la estructura de la UI, facilitando el trabajo con datos dinámicos y lógica.
+
+Respuesta: C
+
+
+¿Cuál es una desventaja potencial del uso de JSX en el desarrollo de aplicaciones React?[3]
+
+A. JSX aumenta la complejidad de implementación en frameworks como Angular.
+
+B. La combinación de HTML y JavaScript en JSX puede resultar en una mayor carga cognitiva para los desarrolladores.
+
+C. JSX dificulta la familiaridad para los desarrolladores frontend al introducir conceptos diferentes a los de HTML.
+
+Respuesta: B
+
+
