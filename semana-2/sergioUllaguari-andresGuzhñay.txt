@@ -1,0 +1,41 @@
+Banco de Preguntas
+
+“ Interacción de Componentes y su Evolución en React + Typescript ”
+
+
+Por:  Sergio Iván Ullaguari & Diego Andres Guzhñay.
+
+
+¿Cuál es una ventaja de la interacción de componentes en React con TypeScript?[2]
+
+A. Mayor curva de aprendizaje.
+
+B. Facilita la detección de errores temprano.
+
+C. Menor legibilidad del código.
+
+Respuesta: B
+
+
+¿Qué analogía se utiliza para describir la interacción de componentes en React con TypeScript?[2] 
+
+A. La danza de los componentes.
+
+B. La construcción de un puente.
+
+C. La elaboración de una receta de cocina.
+
+Respuesta: A
+
+
+¿Cuál es una desventaja de utilizar TypeScript en un proyecto React?
+
+A. Mayor legibilidad del código.
+
+B. Configuración más compleja del entorno.
+
+C. Menor facilidad de colaboración entre equipos.
+
+Respuesta: B
+
+
