@@ -1,0 +1,25 @@
+¿Qué significa "reflexión" en el contexto de la comunicación de componentes en software?
+
+A La capacidad de un sistema para adaptarse a cambios.
+B El intercambio de mensajes entre componentes.
+C La representación visual de la estructura del sistema.
+ANSWER A.
+
+
+
+
+¿Qué método de ciclo de vida se utiliza principalmente para realizar solicitudes de red o inicializar el estado de un componente en React?
+a componentDidMount
+b componentWillUnmount
+c componentDidUpdate
+d componentWillReceiveProps
+ANSWER A
+
+
+
+¿Cuál de los siguientes métodos se utiliza para pasar datos de un componente padre a un componente hijo en React?
+a setState
+b props
+c getDerivedStateFromProps
+d render
+ANSWER B
