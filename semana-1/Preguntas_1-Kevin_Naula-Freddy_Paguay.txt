@@ -1,0 +1,27 @@
+Preguntas
+
+Integrantes: Freddy Paguay y Kevin Naula
+
+Qué son los componentes en React?[1]
+a) Piezas de Lego
+b) Bloques de construcción fundamentales para interfaces de usuario
+c) Fragmentos de código que no se pueden reutilizar
+d) Elementos decorativos en una aplicación web
+Respuesta correcta: b) Bloques de construcción fundamentales para interfaces de usuario
+
+
+¿Cuál es la importancia de los componentes en React según el documento?[2]
+a) Facilitan la construcción de aplicaciones web complejas
+b) Promueven la reutilización de código y la modularidad
+c) Hacen que el trabajo en equipo sea más difícil
+d) No tienen impacto en la eficiencia del desarrollo de software
+Respuesta correcta: b) Promueven la reutilización de código y la modularidad
+
+
+¿Qué analogía se utiliza en el documento para ilustrar el funcionamiento de los componentes en React?[3]
+a) Un rompecabezas
+b) Un libro de cocina
+c) Una película de ciencia ficción
+d) Un partido de fútbol
+
+Respuesta correcta: a) Un rompecabezas

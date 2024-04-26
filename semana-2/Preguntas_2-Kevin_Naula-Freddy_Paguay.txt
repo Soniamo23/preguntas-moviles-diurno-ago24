@@ -1,0 +1,26 @@
+
+Preguntas Kevin Nuala - Freddy Paguay
+
+1-¿Qué es useEffect en React JS?
+
+A) Una librería para gestionar estados globales.
+B) Un hook que permite agregar efectos secundarios en componentes funcionales.
+C) Un método para conectar componentes con APIs externas exclusivamente.
+D) Una herramienta para escribir componentes de clase en React.
+
+
+2-¿Cuál es el propósito principal de las técnicas de gestión de configuración en el desarrollo de software?
+A. Aumentar la cantidad de bugs en el código.
+B. Reducir la flexibilidad del proceso de desarrollo.
+C. Garantizar la integridad y trazabilidad de los elementos de configuración a lo largo del ciclo de vida del software.
+
+Respuesta: C
+
+
+
+3-¿Por qué son importantes las herramientas de gestión de requisitos en el ciclo de vida del desarrollo de software?
+A. Para aumentar la complejidad del proceso de desarrollo.
+B. Para garantizar que los requisitos del cliente se capturen, sigan y gestionen adecuadamente.
+C. Para reducir la comunicación entre el equipo de desarrollo y el cliente.
+
+Respuesta: C
