@@ -1,0 +1,36 @@
+
+
+
+1. ¿Cómo afecta el ciclo de vida de un componente React al rendimiento de la aplicación? Semana 2
+
+A. Incrementa el rendimiento al completar cada ciclo de vida
+
+B. Podría el ciclo de vida ser un factor de ralentización en ciertos casos
+
+C. El ciclo de vida de un componente React no tiene impacto en el rendimiento
+
+Respuesta: B
+
+---
+
+2. ¿Qué sucede si un componente React se actualiza de manera inesperada durante el montaje?
+
+A. El componente se actualiza correctamente sin problemas
+
+B. Se produce un error de actualización que detiene la aplicación
+
+C. El componente se monta nuevamente sin actualizar
+
+Respuesta: B
+
+---
+
+3. ¿Cuál es la función principal del método `componentDidUpdate()` en un componente React?
+
+A. Es para realizar operaciones de limpieza antes de que el componente se desmonte
+
+B. Es para manejar la lógica de actualización después de que el componente se actualiza en el DOM
+
+C. Es para inicializar el estado del componente antes de que se monte por primera vez
+
+Respuesta:B
