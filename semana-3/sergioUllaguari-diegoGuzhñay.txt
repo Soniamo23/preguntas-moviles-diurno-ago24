@@ -1,0 +1,66 @@
+			Banco de Preguntas
+
+	Tema: Manejo de estados y Hooks en ReactTS
+
+		Subtema: Optimización y Mejoras en el Manejo del Estado
+
+	Por:  Sergio Iván Ullaguari & Diego Andres Guzhñay.
+
+	
+¿Cuál de las siguientes técnicas ayuda a optimizar el rendimiento de una aplicación React al minimizar la redundancia de datos y simplificar el manejo del estado?[3]
+
+A. Normalización del Estado
+
+B. Utilización de múltiples useState
+
+C. Manipulación directa del estado global
+
+
+Respuesta: A
+
+
+¿Qué son los selectores en el contexto de React con TypeScript?[3]
+
+A. Funciones que toman el estado de la aplicación y devuelven datos derivados de ese estado
+
+B. Componentes que seleccionan elementos del DOM para aplicar estilos
+
+C. Hooks que permiten seleccionar elementos del árbol de componentes
+
+
+Respuesta: A
+
+
+¿Cuál de las siguientes estrategias ayuda a optimizar el rendimiento de los componentes funcionales en una aplicación React?[3]
+
+A. Uso de useMemo y useCallback para memoizar valores y funciones
+
+B. Realizar renderizado condicional utilizando if-else en lugar de operadores ternarios
+
+C. Utilizar múltiples useEffect para manejar efectos secundarios complejos
+
+
+Respuesta: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
