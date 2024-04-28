@@ -1,4 +1,4 @@
-# *PreguntasSemana1*
+#*PreguntasSemana1*
 
 ¿Cuál es la principal ventaja de usar Vite sobre Create React App?
 
