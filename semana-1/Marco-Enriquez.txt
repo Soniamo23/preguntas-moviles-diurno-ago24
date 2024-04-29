@@ -1,0 +1,30 @@
+# 1M-Preguntas1
+1. ¿Cómo puede la combinación de React con Vite mejorar la eficiencia del desarrollo web moderno? [#1]
+
+   A. Minimizando el uso de herramientas de construcción.
+
+   B. Optimizando los procesos de diseño de interfaces de usuario.
+
+   C. Agilizando el ciclo de desarrollo con actualizaciones en tiempo real.
+
+   ANSWER: C
+
+2. ¿Qué aspecto de la analogía entre React y Vite con un arquitecto y un equipo de construcción resalta la sinergia entre estas tecnologías? [#1]
+
+   A. La capacidad del arquitecto para diseñar estructuras modulares.
+
+   B. La rapidez y eficiencia del equipo de construcción para implementar cambios.
+
+   C. La necesidad de un equipo multidisciplinario para completar el proyecto.
+
+   ANSWER: B
+
+3. ¿Cuál es uno de los principales beneficios de utilizar Vite junto con React en el desarrollo de aplicaciones web? [#1]
+
+   A. La capacidad de generar documentación automática del código.
+
+   B. La simplificación del proceso de implementación en entornos de producción.
+
+   C. La mejora en la velocidad de desarrollo gracias a las actualizaciones en tiempo real.
+
+   ANSWER: C
