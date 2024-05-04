@@ -1,0 +1,23 @@
+# ¿Cómo puedes añadir un controlador de eventos a tu JSX en React?
+
+A) Definiendo una función y pasándola como prop a la etiqueta JSX apropiada.
+B) Importando un controlador de eventos de una librería externa.
+C) Escribiendo directamente el controlador de eventos en el JSX.
+
+## ANSWER: A
+
+# ¿Cómo están usualmente definidas las funciones controladoras de evento en React?
+
+A) Fuera de los componentes.
+B) Dentro de los componentes, con nombres que empiezan con handle seguido del nombre del evento.
+C) Como métodos de clase en componentes de clase.
+
+## ANSWER: B
+
+# ¿Qué herramienta cognitiva se utiliza para establecer una relación de semejanza entre dos cosas diferentes en la analogía?
+
+A) La comparación directa.
+B) La explicación detallada.
+C) La relación de semejanza.
+
+## RANSWER: C
