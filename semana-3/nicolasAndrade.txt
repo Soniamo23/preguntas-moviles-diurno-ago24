@@ -1,0 +1,19 @@
+¿Qué es un hook en React?
+a Una herramienta para pescar.
+b Una función especial en React que permite usar características de React sin escribir una clase.
+c Un componente de interfaz gráfica.
+ANSWER B
+
+
+¿Cuál es el propósito principal del hook useState() en React?
+a Para renderizar componentes HTML.
+b Para gestionar el estado dentro de componentes funcionales.
+c Para definir estilos CSS en un componente.
+ANSWER B
+
+
+¿Cuál es la principal diferencia entre el manejo de estado en componentes de clase y componentes funcionales en React?
+a Los componentes de clase no pueden tener estado.
+b Los componentes funcionales no pueden usar hooks.
+c Los componentes de clase usan this.state para gestionar el estado, mientras que los componentes funcionales usan hooks como useState().
+ANSWER C        
