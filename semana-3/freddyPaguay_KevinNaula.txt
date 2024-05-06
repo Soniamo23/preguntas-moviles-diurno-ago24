@@ -1,0 +1,25 @@
+1.- ¿Cuál es la convención sugerida para nombrar props de controladores de eventos en React, según la documentación oficial?
+a) Comenzar con "event"
+b) Comenzar con "handle"
+c) Comenzar con "on", seguido de una letra mayúscula
+
+No hay una convención específicaRespuesta correcta: c) Comenzar con "on", seguido de una letra mayúscula
+
+
+
+
+2.- ¿Qué ventajas ofrece la flexibilidad en el nombramiento de props de controladores de eventos en React en términos de desarrollo de aplicaciones?
+a) Mayor complejidad en el código
+b) Dificulta la reutilización de componentes
+c) Permite una mejor expresión del propósito de cada prop
+
+Respuesta correcta: c) Permite una mejor expresión del propósito de cada prop
+
+
+
+3.- ¿Cómo se relaciona la asignación de props de controladores de eventos en React con la organización de roles en una fiesta, según la analogía presentada?
+a) No hay relación entre ambas
+b) Proporciona una estructura más rígida en la aplicación
+c) Permite asignar tareas específicas a cada componente
+
+Respuesta correcta: c) Permite asignar tareas específicas a cada componente
