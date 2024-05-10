@@ -16,4 +16,4 @@ ANSWER B
 a Los componentes de clase no pueden tener estado.
 b Los componentes funcionales no pueden usar hooks.
 c Los componentes de clase usan this.state para gestionar el estado, mientras que los componentes funcionales usan hooks como useState().
-ANSWER C        
+ANSWER C        .
