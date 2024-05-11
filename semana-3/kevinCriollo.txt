@@ -1,0 +1,18 @@
+¿Qué tipo de información se puede pasar a través de las props en React?
+a) Solo valores numéricos
+b) Solo cadenas de texto
+c) Cualquier valor de JavaScript
+d) Solo booleanos
+Respuesta correcta: c) 
+¿Cómo se accede a las props dentro de un componente hijo en React?
+a) Utilizando la palabra clave "prop"
+b) Mediante la función "getProps()"
+c) Especificando los nombres de las props entre llaves dentro de los paréntesis de la función del componente hijo
+d) Importando las props desde el componente padre
+Respuesta correcta: c) 
+¿Cuál es la función de las props en React?
+a) Definir estilos para los componentes
+b) Comunicar información entre componentes
+c) Ejecutar funciones asincrónicas
+d) Renderizar elementos HTML
+Respuesta correcta: b) 
