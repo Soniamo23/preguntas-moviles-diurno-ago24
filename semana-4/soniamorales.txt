@@ -6,7 +6,7 @@ a) Su integración con Vue.js
 b) Su enfoque en la inmutabilidad del estado
 c) Su capacidad para permitir mutaciones directas del estado
 
-ANSWER: c) Su capacidad para permitir mutaciones directas del estado
+ANSWER: b) Su enfoque en la inmutabilidad del estado
 
 2. ¿Qué aspecto de la integración de Zustand con React lo hace llamativo para desarrolladores?
 
