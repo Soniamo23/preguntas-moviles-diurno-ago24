@@ -24,7 +24,7 @@ ANSWER: A
 
 A. Experiencia previa con frameworks de gestión de estado como Redux.
 
-B. Conocimiento básico de React y JavaScript.
+B. Conocimiento básico de React y TypeScript.
 
 C. Un servidor de base de datos para almacenar el estado de la aplicación.
 
