@@ -1,0 +1,23 @@
+PREGUNTAS DE FREDDY PAGUAY
+
+1-¿Qué técnica se puede utilizar en React para evitar renders innecesarios en componentes Zustand y mejorar el rendimiento?
+A. Memoization
+B. Promises
+C. Callbacks
+Respuesta: A
+
+2-¿Qué ventaja ofrecen los selectores en el contexto de Zustand para mejorar el rendimiento en aplicaciones React?
+A. Aumentan la complejidad de la gestión del estado.
+B. Permiten acceder a porciones específicas del estado de forma eficiente.
+C. Requieren una infraestructura de red robusta.
+Respuesta: B
+
+3-¿Cuál es el objetivo principal de la optimización de rendimiento con Zustand en aplicaciones React?
+A. Reducir el tiempo de carga y mejorar la experiencia del usuario.
+B. Incrementar la complejidad del código.
+C. Requerir menos recursos de hardware.
+Respuesta: A
+
+
+
+
