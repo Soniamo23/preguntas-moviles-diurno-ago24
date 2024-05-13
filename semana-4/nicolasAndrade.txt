@@ -1,0 +1,26 @@
+¿Qué es Zustand?
+
+a Una biblioteca de gestión de estado para React
+b Un lenguaje de programación
+c Una herramienta de diseño web
+d Una base de datos NoSQL
+
+Respuesta correcta: a Una biblioteca de gestión de estado para React
+
+¿Qué característica destaca a Zustand?
+
+a Su sintaxis complicada
+b Su enfoque en la complejidad
+c Su sintaxis minimalista y su enfoque en el rendimiento
+d Su dependencia de clases en React
+
+Respuesta correcta: c Su sintaxis minimalista y su enfoque en el rendimiento
+
+¿Qué tipo de aplicaciones es adecuado para Zustand?
+
+a Solo aplicaciones móviles
+b Solo aplicaciones web pequeñas
+c Aplicaciones web de cualquier tamaño
+d Solo aplicaciones web grandes
+
+Respuesta correcta: c Aplicaciones web de cualquier tamaño
