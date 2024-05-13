@@ -1,0 +1,25 @@
+                                 Banco DE Preguntas
+                                
+SUBTEMA :Zustand
+Por: Andres Aucay
+
+1) ¿Cuál es una ventaja clave de utilizar Zustand en lugar de otras bibliotecas de gestión de estado en React?
+A. Su capacidad para integrarse exclusivamente con Vue.js.
+B. Su enfoque en la manipulación directa y eficiente del estado.
+C. Su dependencia de middleware adicional para el manejo del estado.
+
+ANSWER: B
+
+2) ¿Qué característica de la integración de Zustand con React lo hace especialmente atractivo para los desarrolladores?
+A.  Su necesidad de una instalación adicional de bibliotecas de terceros.
+B. Su enfoque en la manipulación del DOM de forma directa.
+C. Su uso de hooks para una integración sencilla y elegante.
+
+ANSWER: C
+
+3) Cuál es uno de los principales desafíos q puede surgir al implementar Zustand en una aplicación React?
+A. La falta de compatibilidad con versiones anteriores de React.
+B.  La complejidad en la gestión del estado en aplicaciones de gran escala.
+C.  La dependencia exclusiva de componentes de clase en lugar de hooks.
+
+ANSWER: B
