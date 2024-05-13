@@ -1,0 +1,28 @@
+Preguntas del Opción múltiple sobre Zustand
+
+``Nombre : Juan Carlos Jara` 
+`Curso: 3 nivel` 
+`Materia: Aplicaciones Móviles`
+
+
+
+1. ¿Qué es "zustand" en el contexto de la programación? 
+2. a) Un sistema operativo especializado en aplicaciones web. 
+3. **b) Una biblioteca de gestión de estados para aplicaciones React.** 
+4. c) Un protocolo de comunicación para redes de computadoras. 
+5. d) Un lenguaje de programación de alto nivel.
+Respuesta: b
+    
+2. ¿Cuál de las siguientes afirmaciones describe mejor la función de "zustand" en una aplicación React? 
+3. a) Gestiona la autenticación de usuarios. 
+4. b) Facilita la manipulación del DOM. 
+5. **c) Administra el estado de la aplicación de forma centralizada.** 
+6. d) Proporciona estilos predefinidos para la interfaz de usuario.
+Respuesta: c
+    
+3. ¿Qué ventaja ofrece el uso de "zustand" sobre el manejo tradicional de estados en React con useState? 
+4. a) Mayor complejidad en la lógica de programación. 
+5. **b) Mejor rendimiento al manejar grandes cantidades de datos.** 
+6. c) Funciona exclusivamente en entornos de desarrollo. 
+7. d) Requiere la instalación de plugins adicionales.
+Respuesta: b
