@@ -1,0 +1,31 @@
+¿Qué caracteriza la arquitectura mutable de Zustand?
+
+A. Requiere la creación de copias inmutables del estado para cada actualización.
+B. Permite la actualización directa del estado mediante la función set.
+C. Utiliza middleware para todas las actualizaciones de estado.
+D. Depende de un único store global inmutable.
+Respuesta: B 
+
+¿Cuál es una ventaja principal de usar Zustand sobre Redux?
+
+A. Estado global inmutable que facilita la depuración.
+B. Menos código boilerplate y una implementación más simple.
+C. Soporte nativo para middleware complejo.
+D. Integración obligatoria con la API Context de React.
+Respuesta: B 
+
+¿Cómo maneja Zustand las actualizaciones del estado para mejorar el rendimiento?
+
+A. Creando nuevas copias inmutables del estado en cada actualización.
+B. Usando selectores y comparaciones superficiales para notificar cambios relevantes.
+C. Empleando una estructura de datos inmutable por defecto.
+D. Utilizando un store global único para todos los componentes.
+Respuesta: B 
+
+En la analogía, ¿a qué se compara la arquitectura mutable de Zustand?
+
+A. A una serie de notas adhesivas que se superponen.
+B. A una libreta de notas reutilizable.
+C. A un libro con páginas fijas e inalterables.
+D. A un tablero de anuncios con múltiples tarjetas.
+Respuesta: B
