@@ -1,0 +1,31 @@
+			-	PREGUNTAS	-
+
+¿Cómo se diferencia Zustand de otras bibliotecas de gestión de estado en el ecosistema de React y cuál es su objetivo principal? [4]
+
+A. Una herramienta para la creación de componentes personalizados en React.
+
+B. Una biblioteca para el enrutamiento en aplicaciones web desarrolladas con React.
+
+C. Una solución para la gestión de estado en React que prioriza la simplicidad y el rendimiento.
+
+ANSWER: C
+
+¿Cuáles son algunas de las ventajas clave de utilizar Zustand en comparación con otras alternativas para la gestión de estado en aplicaciones React? [4]
+
+A. Complejidad adicional debido a su sintaxis elaborada.
+
+B. Mejora en el rendimiento al minimizar la re-renderización de componentes innecesaria.
+
+C. Requerimiento de un servidor dedicado para el almacenamiento del estado de la aplicación.
+
+ANSWER: B
+
+¿Cuál es la principal ventaja de Zustand en términos de rendimiento en comparación con Redux? [4]
+
+A. Menor consumo de memoria.
+
+B. Mayor compatibilidad con herramientas de desarrollo.
+
+C. Mejor integración con React Native.
+
+ANSWER: A
