@@ -1,0 +1,38 @@
+Pregunta 1:
+    ¿Cómo se crea un estado global en Zustand?
+
+        A. createGlobalState()
+
+        B. useState()
+
+        C. create(set => ({ ... }))
+
+        D. useReducer()
+
+    Respuesta correcta: C. create(set => ({ ... }))
+
+Pregunta 2:
+    ¿Cuál es la forma correcta de acceder al estado global creado con Zustand en un componente React?
+
+        A. useZustand(state => state)
+
+        B. useStore(state => state)
+
+        C. useZustandContext(state => state)
+
+        D. useGlobalState(state => state)
+
+    Respuesta correcta: B. useStore(state => state)
+
+Pregunta 3:
+    ¿Qué hook de React se utiliza junto con Zustand para actualizar el estado global?
+
+        A. useEffect
+
+        B. useState
+
+        C. useStore
+
+        D. useReducer
+
+    Respuesta correcta: C. useStore
