@@ -1,0 +1,45 @@
+
+							Banco de Preguntas
+
+			Tema: Errores comunes de Hooks en React TS
+		
+		Por:  Sergio Iván Ullaguari.
+
+
+¿Cuál de los siguientes NO es un error común al usar hooks en React con TypeScript? [5]
+
+
+A. Olvidar declarar los tipos de los hooks.
+
+B. No usar la inferencia de tipos de TypeScript.
+
+C. Usar hooks fuera del componente.
+
+
+ANSWER: C
+
+
+¿Cuál de las siguientes NO es una buena práctica para evitar errores al usar hooks en React con TypeScript? [5]
+
+
+A. Usar la opción 'strict' en el compilador de TypeScript.
+
+B. Aprovechar la inferencia de tipos de TypeScript para los hooks.
+
+C. Pasar funciones anónimas como argumentos a los hooks.
+
+
+ANSWER: C
+
+
+Cuál de las siguientes NO es una forma adecuada de manejar dependencias en hooks de React con TypeScript? [5]
+
+
+A. Usar la dependencia useEffect para realizar efectos secundarios.
+
+B. Aprovechar la opción useMemo para memorizar valores calculados.
+
+C. Depender de valores mutables dentro de un hook de estado.
+
+
+ANSWER: C
