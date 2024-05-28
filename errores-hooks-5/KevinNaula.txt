@@ -1,0 +1,28 @@
+                    Preguntas Errores con Hooks
+    
+¿Qué herramienta se recomienda para asegurar que los Hooks se usen correctamente en React? [Errores: 5]
+
+A) Redux
+B) eslint-plugin-react-hooks
+C) TypeScript
+D) Jest
+
+Answer: B) eslint-plugin-react-hooks
+
+¿Qué tipo de componente debe ser utilizado si se necesita usar Hooks en React? [Errores: 5]
+
+A) Componente de clase
+B) Componente funcional
+C) Componente de orden superior (HOC)
+D) Ninguna de las anteriores
+
+Answer: B) Componente funcional
+
+¿Qué sucede si se usan Hooks dentro de condicionales o ciclos? [Errores: 5]
+
+A) Mejora el rendimiento de la aplicación
+B) Puede causar errores y comportamientos inesperados
+C) Optimiza la renderización del componente
+D) Permite reutilizar más código
+
+Answer: B) Puede causar errores y comportamientos inesperados
