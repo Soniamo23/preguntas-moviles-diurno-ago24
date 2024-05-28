@@ -1,0 +1,36 @@
+Preguntas de Opcion Multiple
+
+Nombre: Juan Carlos Jara 
+Materias: App Moviles
+
+
+
+regunta 1
+¿Qué sucede si llamas a un hook dentro de un condicional?
+
+A. Mejora el rendimiento del componente
+B. Rompe la regla de hooks, causando comportamientos inesperados
+C. Asegura que el hook se ejecute solo cuando es necesario
+D. Reduce el tamaño del bundle de la aplicación
+
+Respuesta correcta: B
+
+Pregunta 2
+¿Cuál es la consecuencia de olvidar agregar dependencias en el arreglo de dependencias de useEffect?
+
+A. El efecto nunca se ejecutará
+B. El efecto se ejecutará de manera continua
+C. El efecto puede no ejecutarse cuando debería
+D. No hay ninguna consecuencia
+
+Respuesta correcta: C
+
+Pregunta 3
+¿Qué problema puede causar el uso de useState sin actualizar el estado de manera inmutable?
+
+A. El estado nunca cambia
+B. El componente se desmonta automáticamente
+C. El estado puede ser inconsistente y causar errores en el renderizado
+D. El rendimiento del componente mejora
+
+Respuesta correcta: C
