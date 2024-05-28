@@ -1,0 +1,35 @@
+                                
+                                1.5 errores de hooks
+
+
+
+¿Por qué es importante inicializar correctamente el estado con useState en TypeScript?
+
+A Para evitar errores de sintaxis en el código.
+B Para que TypeScript pueda inferir correctamente el tipo de datos que manejará ese estado.
+C Para mejorar el rendimiento de la aplicación.
+D Para mantener el código limpio y ordenado.
+Respuesta correcta: B
+
+
+
+
+¿Cuál es un error común al usar useEffect y cómo evitarlo?
+
+A No usar useState dentro de useEffect.
+B No proporcionar una lista de dependencias o proporcionar una lista incorrecta.
+C No retornar una función desde useEffect.
+D Usar useEffect en componentes funcionales.
+Respuesta correcta: B 
+
+
+
+
+¿Qué problema puede surgir al actualizar el estado basado en el estado anterior con useState y cómo se puede solucionar?
+
+A El estado nunca se actualiza.
+B Se puede producir un error de sintaxis.
+C Puede causar inconsistencias si las actualizaciones de estado se agrupan.
+D El componente se renderiza dos veces.
+
+Respuesta correcta: C 
