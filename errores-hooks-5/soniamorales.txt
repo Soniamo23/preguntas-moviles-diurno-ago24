@@ -1,0 +1,26 @@
+TEMA: Manejar correctamente las dependencias en useEffect
+
+
+¿Cuál es el propósito principal de la matriz de dependencias en useEffect?
+
+a. Determinar cuándo se ejecutará la función de efecto.
+b. Pasar argumentos a la función de efecto.
+c. Almacenar los valores de las dependencias.
+
+Respuesta correcta: a. Determinar cuándo se ejecutará la función de efecto.
+
+¿Qué sucede si no se incluye una dependencia relevante en la matriz de dependencias de useEffect?
+
+a. La función de efecto se ejecutará de todos modos en cada renderizado.
+b. La función de efecto podría basarse en un valor desactualizado, lo que puede provocar errores o comportamientos inesperados.
+c. No ocurrirá nada, ya que React maneja automáticamente las dependencias.
+
+Respuesta correcta: b. La función de efecto podría basarse en un valor desactualizado, lo que puede provocar errores o comportamientos inesperados.
+
+¿Cuál es el problema potencial de incluir demasiadas dependencias innecesarias en la matriz de dependencias de useEffect?
+
+a. La función de efecto se ejecutará menos veces de lo necesario.
+b. La función de efecto se volverá a ejecutar más de lo necesario, lo que puede afectar el rendimiento de la aplicación.
+c. React arrojará un error de dependencias circulares.
+
+Respuesta correcta: b. La función de efecto se volverá a ejecutar más de lo necesario, lo que puede afectar el rendimiento de la aplicación.
