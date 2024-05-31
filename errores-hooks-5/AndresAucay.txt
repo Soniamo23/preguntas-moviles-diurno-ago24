@@ -1,0 +1,29 @@
+
+                        Banco de Preguntas
+
+                    Errores comunes de Hooks 
+        Andres Aucay
+
+    -¿Cuál es el propósito principal de la matriz de dependencias en useEffect?[5]
+        a. Determinar cuándo se ejecutará la función de efecto.
+        b. Pasar argumentos a la función de efecto.
+        c. Almacenar los valores de las dependencias.
+        d. Optimizar la renderización del componente.
+
+        ANSWER: a. 
+
+    -¿Por qué es importante inicializar correctamente el estado con useState en TypeScript?[5]
+        a. Para evitar errores de sintaxis en el código.
+        b. Para que TypeScript pueda inferir correctamente el tipo de datos que manejará ese estado.
+        c. Para mejorar el rendimiento de la aplicación.
+        d. Para mantener el código limpio y ordenado.
+
+        ANSWER: b.
+
+    -¿Cuál es un error común al usar useEffect y cómo evitarlo? [5]
+        a. No usar useState dentro de useEffect.
+        b. No proporcionar una lista de dependencias o proporcionar una lista incorrecta.
+        c. No retornar una función desde useEffect.
+        d. Usar useEffect en componentes funcionales.
+
+        ANSWER: b.
