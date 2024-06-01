@@ -1,0 +1,44 @@
+
+							Banco de Preguntas
+
+			Tema: Comunicación con React Router DOM
+		
+		Por:  Sergio Iván Ullaguari.
+
+
+¿Cuál es el propósito principal de React Router en una aplicación React? [6]
+
+
+A. React Router se utiliza principalmente para gestionar el estado global de la aplicación.
+
+B. React Router se utiliza para manejar la autenticación de usuarios en la aplicación.
+
+C. React Router se utiliza para definir y gestionar las rutas de navegación dentro de una aplicación React, permitiendo que diferentes componentes se rendericen según la URL.
+
+
+ANSWER: C
+
+
+¿Cómo se define una ruta básica en React Router? [6]
+
+
+A. <Route component={ComponentName} />
+
+B. <Route path="/ruta" element={<ComponentName />} />
+
+C. <Route name="/ruta" handler={ComponentName} />
+
+
+ANSWER: B
+
+
+¿Qué componente de React Router se utiliza para proporcionar el contexto de enrutamiento a toda la aplicación? [6]
+
+
+A. <BrowserRouter>
+
+B. <RouterProvider>
+
+C. <RouteContext>
+
+ANSWER: A
